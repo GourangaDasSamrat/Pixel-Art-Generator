@@ -8,6 +8,10 @@ Check out the live version of the website: [Pixel Art  Generator](https://pixela
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
 
+https://github.com/user-attachments/assets/4fcace8a-aed6-4904-a5a8-2459388eea42
+
+
+
 ## ✨ Features
 
 *   **Customizable Grid:**  Control the width and height of your canvas to create pixel art of any size. 📏
