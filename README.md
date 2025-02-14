@@ -3,7 +3,7 @@
 Create stunning pixel art with this easy-to-use web-based generator!  Design your own masterpieces, from simple icons to intricate scenes.  This project is perfect for beginners and experienced artists alike.
 
 🌟 **Live Demo**
-Check out the live version of the website: [Pixel Art  Generator]()
+Check out the live version of the website: [Pixel Art  Generator](https://pixelartgeneratorbygouranga.tiiny.site)
 
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
@@ -35,10 +35,11 @@ Here's a quick overview of the project's file structure:
 
 1. **Clone the repository**
    ```bash
+   git@github.com:GourangaDasSamrat/Pixel-Art-Generator.git
 2.  Open `index.html` in your web browser.
 or
 
-**[Click here]() to see this project on internet.**
+**[Click here](https://pixelartgeneratorbygouranga.tiiny.site) to see this project on internet.**
 3.  Use the sliders to adjust the grid width and height.
 4.  Click "Create Grid" to generate the canvas.
 5.  Select a color from the color picker.
