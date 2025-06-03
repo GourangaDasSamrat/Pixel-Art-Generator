@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/Demo%20Video-Watch%20Now-red?logo=youtube" alt="Demo Video"></a>
+</p>
+
+<p align="center">
   <b>Unleash your creativity with a beautiful, intuitive, and lightning-fast pixel art generator!<br>
   Design, draw, and share your pixel masterpieces in seconds.</b>
 </p>
@@ -37,11 +41,11 @@
 
 ## 💻 Technologies Used
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+| Technology   | Description           |
+| ------------|----------------------|
+| <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/> | Markup Language |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/> | Styling         |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/> | Logic/Interactivity |
 
 ---
 
@@ -136,5 +140,5 @@ This project is licensed under the [MIT License](LICENSE).
 Have suggestions or want to contribute? Feel free to open an issue or reach out to me through my social profiles.
 
 <p align="center">
-  <b>Happy Programming! 🚀</b>
+  <b><a href="https://www.quotegarden.com/random-quote">Click here for a random programming quote! 💡</a></b>
 </p>
