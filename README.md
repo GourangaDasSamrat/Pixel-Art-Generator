@@ -21,6 +21,14 @@
 
 ---
 
+## ️️📹 Demo Video
+
+[Screencast from 2025-06-06 11-28-51.webm](https://github.com/user-attachments/assets/5cacf5ff-925b-40bf-b8d2-fc4e0223587c)
+
+
+
+---
+
 ## ✨ Features
 
 <ul style="list-style:none; padding-left:0;">
