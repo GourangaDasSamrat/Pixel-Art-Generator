@@ -23,7 +23,10 @@
 
 ## ️️📹 Demo Video
 
-[Screencast from 2025-06-06 11-28-51.webm](https://github.com/user-attachments/assets/5cacf5ff-925b-40bf-b8d2-fc4e0223587c)
+
+[Screencast from 2025-06-06 11-27-36.webm](https://github.com/user-attachments/assets/2b7ed040-390c-4ecd-8a73-b6b0c1a2eb09)
+
+
 
 
 
